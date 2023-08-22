@@ -1,0 +1,13 @@
+D:\Training\phase2\day8\Assignment08\Assignment08\bin\Debug\Assignment08.exe.config
+D:\Training\phase2\day8\Assignment08\Assignment08\bin\Debug\Assignment08.exe
+D:\Training\phase2\day8\Assignment08\Assignment08\bin\Debug\Assignment08.pdb
+D:\Training\phase2\day8\Assignment08\Assignment08\bin\Debug\EntityFramework.dll
+D:\Training\phase2\day8\Assignment08\Assignment08\bin\Debug\EntityFramework.SqlServer.dll
+D:\Training\phase2\day8\Assignment08\Assignment08\bin\Debug\EntityFramework.xml
+D:\Training\phase2\day8\Assignment08\Assignment08\bin\Debug\EntityFramework.SqlServer.xml
+D:\Training\phase2\day8\Assignment08\Assignment08\obj\Debug\Assignment08.csproj.AssemblyReference.cache
+D:\Training\phase2\day8\Assignment08\Assignment08\obj\Debug\Assignment08.csproj.SuggestedBindingRedirects.cache
+D:\Training\phase2\day8\Assignment08\Assignment08\obj\Debug\Assignment08.csproj.CoreCompileInputs.cache
+D:\Training\phase2\day8\Assignment08\Assignment08\obj\Debug\Assignment08.csproj.CopyComplete
+D:\Training\phase2\day8\Assignment08\Assignment08\obj\Debug\Assignment08.exe
+D:\Training\phase2\day8\Assignment08\Assignment08\obj\Debug\Assignment08.pdb
